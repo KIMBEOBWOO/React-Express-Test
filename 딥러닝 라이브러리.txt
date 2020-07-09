@@ -1,0 +1,9 @@
+pandas 행렬 계산
+
+matplotlib 시각화 , 그래프 작성
+seaborn
+
+tensorflow 딥러닝 내장 라이브러리 , 모듈 
+
+numpy 배열 계산
+
